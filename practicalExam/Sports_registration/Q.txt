@@ -1,0 +1,8 @@
+Q1) Community Sports Registration System — 4 Marks
+A community sports club wants a small web application to manage registrations for its upcoming sports event.
+Create the application so that:
+The application can be started as a Node.js web server.
+A visitor should be able to access information through /home.
+A separate page should be available through /registration.
+The registration information should be maintained separately from the main server file.
+When the registration page is opened, display the participant's Name, Age and Sport.

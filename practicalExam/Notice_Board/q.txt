@@ -1,0 +1,7 @@
+Q2) Digital Notice Board — 3 Marks
+A college maintains its daily notices in a text file. The administrative staff frequently update this file, and students should be able to view the latest notice through the Node.js application.
+Create a program that:
+Creates and stores a notice in a text file.
+Later retrieves the stored notice.
+Displays the notice on the terminal.
+The program should continue to work even if an unexpected problem occurs while processing the notice.
