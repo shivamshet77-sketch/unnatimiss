@@ -1,0 +1,1 @@
+(()=>{var t={517(t){t.exports=function(t){return`Student Report-----------Name:${t.name}Course:${t.course}\n    Status:Active`}},888(t){t.exports=function(){return{name:"Shivam ",course:"BCA"}}}};const o={};function e(n){const r=o[n];if(void 0!==r)return r.exports;const s=o[n]={exports:{}};return t[n](s,s.exports,e),s.exports}const n=e(888),r=e(517)(n());console.log(r)})();
